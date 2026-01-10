@@ -12,9 +12,10 @@ Team-oriented and communicative developer with experience in collaborative work.
 ---
 
 ## 🔧 Tech Stack
-- **Frontend:** JavaScript, HTML/CSS, React, Next.js, TypeScript
+- **Frontend:** JavaScript, HTML/CSS, React, Next.js, TypeScript, Python
 - **Backend:** Node.js, REST APIs  
-- **Architecture & Tooling:** GIT, Webpack, Vite, Docker
+- **Architecture & Tooling:** GIT, Webpack, Vite
+- **Other:** Jira, Notion, TestRail, a few CRMs
 ---
 
 ## 🎯 Focusing at:
