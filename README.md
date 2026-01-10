@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Daniil Vorobyov
 
-**Full-Stack JavaScript Developer** with 1 year of experience in web development, evolving from front-end engineering into modern full-stack JavaScript solutions.
+**FullStack Dev.** with 1 year of experience in web.
 
 Started my career making a Python bots for a while (framework Aiogram), being QA for a short time (tested web apps, mobile apps, and desktop apps). Over time I switched to **HTML/CSS, JavaScript, React, Next.js, Node.js**.
 
