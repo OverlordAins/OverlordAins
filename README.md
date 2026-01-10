@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hi, I'm Daniil Vorobyov
 
-<!--
-**OverlordAins/OverlordAins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-Stack JavaScript Developer** with 1 year of experience in web development, evolving from front-end engineering into modern full-stack JavaScript solutions.
 
-Here are some ideas to get you started:
+Started my career making a Python bots for a while (framework Aiogram), being QA for a short time (tested web apps, mobile apps, and desktop apps). Over time I switched to **HTML/CSS, JavaScript, React, Next.js, Node.js**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+Team-oriented and communicative developer with experience in collaborative work. Strong at clear communication, task coordination, and working toward shared goals. Friendly, motivated, open to discussions, and comfortable taking responsibility in a team environment.
+
+---
+
+## 🔧 Tech Stack
+- **Frontend:** JavaScript, HTML/CSS, React, Next.js, TypeScript
+- **Backend:** Node.js, REST APIs  
+- **Architecture & Tooling:** GIT, Webpack, Vite, Docker
+---
+
+## 🎯 Focusing at:
+- Being Fullstack devepoler with the next ones:
+- HTML/CSS
+- JavaScript
+- React/Next
+- Node.js  
+
+---
+
+## 💻Featured Projects
+- [Notehub project](https://github.com/OverlordAins/09-auth) – NextJS project for notes (has reg and auth)
+- [Movies catalog](https://github.com/OverlordAins/04-react-query) - Films/movie searcher, powered by TMDB API
+- [EcoTote](https://github.com/Denis071194/eco_tote_group_13) - Site selling branded women's handbags
+- [BOOKSY](https://github.com/Oleksandr-Sulyma/project-SURVIVORS-CODE) - Project "Booksy", books site
+
+---
+
+## 🗣️ Languages
+![English](https://img.shields.io/badge/English-Upper--Intermediate-blue?style=flat-square)
+![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
+and Russian
+
+---
+
+## 📫 How to find me
+[LinkedIn](https://www.linkedin.com/in/daniil-vorobiiov-5b90033a5/) |
+[GitHub](https://github.com/OverlordAins) |
+[Telegram](@bestNachos) |
+[Email](mailto:stifflingdagger@gmail.com)
