@@ -2,7 +2,7 @@
 
 **FullStack Dev.** with 1 year of experience in web.
 
-Started my career making a Python bots for a while (framework Aiogram), i worked with Java and C# for half a year, participated in team projects to create a gaming mobile app and a messenger. Being QA for a short time (tested web apps, mobile apps, and desktop apps). 
+Started my career making a Python bots for a while (framework Aiogram), i worked with Java and C# for half a year, participated in team projects to create a gaming mobile apps(mostly PY,Java/Kotlin,C#) and a messenger. Being QA for a short time (tested web apps, mobile apps, and desktop apps). 
 Over time I switched to **HTML/CSS, JavaScript, React, Next.js, Node.js**.
 
 ---
