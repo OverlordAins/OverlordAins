@@ -46,5 +46,5 @@ and Russian
 ## 📫 How to find me
 [LinkedIn](https://www.linkedin.com/in/daniil-vorobiiov-5b90033a5/) |
 [GitHub](https://github.com/OverlordAins) |
-[Telegram](@bestNachos) |
+[Telegram](https://t.me/bestNachos) |
 [Email](mailto:stifflingdagger@gmail.com)
