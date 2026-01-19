@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Daniil Vorobyov
+# 👋 Hi, I'm Daniil Vorobiov
 
 **FullStack Dev.** with 1 year of experience in web.
 
